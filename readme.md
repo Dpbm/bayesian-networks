@@ -19,8 +19,6 @@ conda-lock install -n bays conda-lock.yml
 #pip setup
 pip install -r requirements.txt
 ```
-```
-```
 
 With all configured, you can run:
 

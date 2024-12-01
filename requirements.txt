@@ -1,0 +1,7 @@
+pennylane
+numpy
+matplotlib
+pylatexenc
+networkx
+jupyterlab
+pandas

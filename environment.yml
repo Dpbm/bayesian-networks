@@ -1,0 +1,15 @@
+
+name: bays
+channels:
+    - conda-forge
+dependencies:
+    - python=3.10
+    - pip
+    - pip:
+          - pennylane
+          - numpy
+          - matplotlib
+          - pylatexenc
+          - networkx
+          - jupyterlab
+          - pandas
